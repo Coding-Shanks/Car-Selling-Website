@@ -83,7 +83,7 @@ autovibe/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/autovibe.git
+git clone https://github.com/Coding-Shanks/Car-Selling-Website.git
 cd autovibe
 ````
 
@@ -192,8 +192,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback:
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-📝 Issues: [GitHub Issues](https://github.com/your-username/autovibe/issues)
+📝 Issues: [GitHub Issues](https://github.com/Coding-Shanks/Car-Selling-Website/issues)
 
 ---
 
